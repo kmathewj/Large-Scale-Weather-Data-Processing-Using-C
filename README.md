@@ -1,4 +1,4 @@
-# Large-Scale-Weather-Data-Processing-Using-C
+# Weather-Data-Analyzer
 
 ## Overview
 A C-based program that parses and processes weather-monitoring data spanning 5 centuries to calculate average, maximum, and minimum land and ocean temperatures. These calculations are then visualized using graphing software to communicate long-term patterns in global weather and climate change.
